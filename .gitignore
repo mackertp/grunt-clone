@@ -1,0 +1,6 @@
+.DS_Store
+.github
+node_modules
+npm_recovery_codes
+yarn-error.log
+yarn.lock

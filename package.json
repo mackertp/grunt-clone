@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Preston Mackert",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cli-table": "^0.3.11",
+    "grunt": "^1.6.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-mocha-test": "^0.13.3",
+    "mime": "^3.0.0",
+    "mocha": "^10.2.0"
+  }
+}
